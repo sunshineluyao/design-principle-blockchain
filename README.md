@@ -8,6 +8,10 @@
 
 ### Category 1 Security and Privacy
 
+|Citation                       | Title                                                  | URL                                          | 
+|-------------------------------|--------------------------------------------------------|----------------------------------------------|
+|Almashaqbeh and Solomon [2022] |SoK: privacy-preserving computing in the blockchain era |https://ieeexplore.ieee.org/document/9797340  |
+
 
 
 ### Category 2 Scalability
