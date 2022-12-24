@@ -12,7 +12,7 @@
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 |Almashaqbeh and Solomon [2022] |SoK: privacy-preserving computing in the blockchain era |https://ieeexplore.ieee.org/document/9797340  |
 |Bonneau et al. [2015]          |SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies|https://ieeexplore.ieee.org/document/7163021|
-|Almashaqbeh and Solomon [2022] |SoK: privacy-preserving computing in the blockchain era |https://ieeexplore.ieee.org/document/9797340  |
+|Wang [2021] |SoK: Understanding BFT Consensus in the Age of Blockchains|https://eprint.iacr.org/2021/911|
 |Almashaqbeh and Solomon [2022] |SoK: privacy-preserving computing in the blockchain era |https://ieeexplore.ieee.org/document/9797340  |
 |Almashaqbeh and Solomon [2022] |SoK: privacy-preserving computing in the blockchain era |https://ieeexplore.ieee.org/document/9797340  |
 |Almashaqbeh and Solomon [2022] |SoK: privacy-preserving computing in the blockchain era |https://ieeexplore.ieee.org/document/9797340  |
