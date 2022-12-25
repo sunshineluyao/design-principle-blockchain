@@ -63,11 +63,55 @@
 
 
 ### Category 4 Applicability
+ Citation                        | Title                                                                             |
+|---------------------------------|-----------------------------------------------------------------------------------|
+| \citet{gudgeon2020sok}          | SoK: Layer-Two Blockchain Protocols                                               |
+| \citet{bartoletti2021sok}       | SoK: lending pools in decentralized finance                                       |
+| \citet{werner2021sok}           | SoK: Decentralized Finance (DeFi)                                                 |
+| \citet{xu2021sok}               | SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols    |
+| \citet{shi2021blockchain}       | When Blockchain Meets Auction Models: A Survey, Some Applications, and Challenges |
+| \citet{abuidris2019survey}      | A survey of blockchain-based on e-voting systems                                  |
+| \citet{gadekallu2022blockchain} | Blockchain for the Metaverse: A Review                                            |
+| \citet{ali2019blockchain}       | Blockchain and the future of the internet: A comprehensive review                 |
+| \citet{cousaert2022sok}         | Sok: Yield aggregators in defi                                                    |
+| \citet{yu2022sok}               | SoK: Play-to-Earn Projects                                                        |
+| \citet{dotan2020sok}            | SOK: cryptocurrency networking context, state-of-the-art, challenges              |
+| \citet{moin2020sok}             | SoK: A classification framework for stablecoin designs                            |
+| \citet{gan2021critical}         | \thead{A critical review of blockchain applications to banking and finance:       |
+| \citet{dasaklis2021sok}         | Sok: Blockchain solutions for forensics                                           |
+| \citet{wang2021sok}             | SoK: tokenization on blockchain                                                   |
+| \citet{karantias2020sok}        | Sok: A taxonomy of cryptocurrency wallets                                         |
+| \citet{clark2019sok}            | SoK: demystifying stablecoins                                                     |
+| \citet{jourenko2019sok}         | SoK: A taxonomy for layer-2 scalability related protocols for cryptocurrencies    |
+| \citet{lande2018sok}            | SoK: unraveling Bitcoin smart contracts                                           |
+| \citet{moin2020sok}             | SoK: A Classification Framework for Stablecoin Designs                            |
+
+
+
+
 
 
 ### Category 5 Governance and Regulation
+|Citation                       | Title                                                  | URL                                          | 
+|-------------------------------|--------------------------------------------------------|----------------------------------------------|
+| \citet{kiayias2022sok}          | SoK: Blockchain Governance                                                        |                |
+| \citet{chatzigiannis2021sok}    | SoK: Auditability and Accountability in Distributed Payment Systems               |                |
+| \citet{kolachala2021sok}        | SoK: Money Laundering in Cryptocurrencies                                         |                |
+| \citet{casino2022sok}           | SoK: Cross-border Criminal Investigations and Digital Evidence                    |                |
+| \citet{deuber2022sok}           | \thead{SoK: Assumptions Underlying Cryptocurrency Deanonymizations                |                |
 
 
 ### Category 6 Blockchain System Design
+|Citation                       | Title                                                  | URL                                          | 
+|-------------------------------|--------------------------------------------------------|----------------------------------------------|
+| \citet{wang2020sok}             | SoK: Diving into DAG-based blockchain systems                                     |  |
+| \citet{bellaj2022sok}           | SOK: a comprehensive survey on distributed ledger technologies                    |  |
 
 ### Category 7 Cross-Chain and Interoperability
+|Citation                       | Title                                                  | URL                                          | 
+|-------------------------------|--------------------------------------------------------|----------------------------------------------|
+| \citet{zamyatin2021sok}         | Sok: Communication across distributed ledgers                                     |  |         
+| \citet{wang2021sok}             | Sok: Exploring blockchains interoperability                                       |  |
+| \citet{eskandari2021sok}        | Sok: Oracles from the ground truth to market manipulation                         |  |
+| \citet{lee2022sok}              | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks         |  |
+
