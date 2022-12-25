@@ -64,7 +64,7 @@
 
 ### Category 4 Applicability
  Citation                        | Title                                                                             | |
-|---------------------------------|-----------------------------------------------------------------------------------| |
+|---------------------------------|-----------------------------------------------------------------------------------|--- |
 | Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               | |
 | Bartoletti et al. [2021]      | SoK: lending pools in decentralized finance                                       | |
 | Werner et al. [2021]          | SoK: Decentralized Finance (DeFi)                                                 | |
