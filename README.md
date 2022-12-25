@@ -63,29 +63,28 @@
 
 
 ### Category 4 Applicability
- Citation                        | Title                                                                             |
-|---------------------------------|-----------------------------------------------------------------------------------|
-| Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               |
-| Bartoletti et al. [2021]      | SoK: lending pools in decentralized finance                                       |
-| Werner et al. [2021]          | SoK: Decentralized Finance (DeFi)                                                 |
-| Xu et al. [2021]              | SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols    |
-| Shi et al. [2021]      | When Blockchain Meets Auction Models: A Survey, Some Applications, and Challenges |
-| Abuidris et al. [2019]      | A survey of blockchain-based on e-voting systems                                  |
-| Gadekallu et al. [2022]  | Blockchain for the Metaverse: A Review                                            |
-| Ali et al. [2019]       | Blockchain and the future of the internet: A comprehensive review                 |
-| Cousaert et al. [2022]      | Sok: Yield aggregators in defi                                                    |
-| Yu et al. [2022]   | SoK: Play-to-Earn Projects                                                        |
-| Dotan et al. [2020]  | SOK: cryptocurrency networking context, state-of-the-art, challenges              |
-| Moin et al. [2020]   | SoK: A classification framework for stablecoin designs                            |
-| Gan et al. [2021]   | A critical review of blockchain applications to banking and finance:\\ a qualitative thematic analysis approach |
-| Dasaklis et al. [2021]    | Sok: Blockchain solutions for forensics                                           |
-| Wang [2021]      | SoK: tokenization on blockchain                                                   |
-|Karantias [2020]   | Sok: A taxonomy of cryptocurrency wallets                                         |
-| Clark et al. [2019]  | SoK: demystifying stablecoins                                                     |
-| Jourenko et al. [2019]      | SoK: A taxonomy for layer-2 scalability related protocols for cryptocurrencies    |
-| Lande and Zunino [2018]         | SoK: unraveling Bitcoin smart contracts                                           |
-| Moin et al. [2020]     | SoK: A Classification Framework for Stablecoin Designs                            |
-
+ Citation                        | Title                                                                             | |
+|---------------------------------|-----------------------------------------------------------------------------------| |
+| Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               | |
+| Bartoletti et al. [2021]      | SoK: lending pools in decentralized finance                                       | |
+| Werner et al. [2021]          | SoK: Decentralized Finance (DeFi)                                                 | |
+| Xu et al. [2021]              | SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols    | |
+| Shi et al. [2021]      | When Blockchain Meets Auction Models: A Survey, Some Applications, and Challenges |        |
+| Abuidris et al. [2019]      | A survey of blockchain-based on e-voting systems                                  |  |
+| Gadekallu et al. [2022]  | Blockchain for the Metaverse: A Review                                            |     |
+| Ali et al. [2019]       | Blockchain and the future of the internet: A comprehensive review                 |      |
+| Cousaert et al. [2022]      | Sok: Yield aggregators in defi                                                    | |
+| Yu et al. [2022]   | SoK: Play-to-Earn Projects                                                        |.         |
+| Dotan et al. [2020]  | SOK: cryptocurrency networking context, state-of-the-art, challenges              |.       |
+| Moin et al. [2020]   | SoK: A classification framework for stablecoin designs                            |.       |
+| Gan et al. [2021]   | A critical review of blockchain applications to banking and finance:\\ a qualitative thematic analysis approach | |
+| Dasaklis et al. [2021]    | Sok: Blockchain solutions for forensics                                           |.        |
+| Wang [2021]      | SoK: tokenization on blockchain                                                   | |
+|Karantias [2020]   | Sok: A taxonomy of cryptocurrency wallets                                         | |
+| Clark et al. [2019]  | SoK: demystifying stablecoins                                                     |       |
+| Jourenko et al. [2019]      | SoK: A taxonomy for layer-2 scalability related protocols for cryptocurrencies    |    |
+| Lande and Zunino [2018]         | SoK: unraveling Bitcoin smart contracts                                           |. |
+| Moin et al. [2020]     | SoK: A Classification Framework for Stablecoin Designs                            |      |
 
 
 
