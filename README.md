@@ -4,7 +4,7 @@
 
 
 
-## Reference Lists
+## SoKs
 
 ### Category 1 Security and Privacy
 
@@ -114,3 +114,4 @@
 | Eskandari et al. [2021]     | Sok: Oracles from the ground truth to market manipulation                         |  |
 | Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks         |  |
 
+## White papers
