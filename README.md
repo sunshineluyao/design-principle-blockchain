@@ -13,7 +13,7 @@
 |Almashaqbeh and Solomon [2022] |SoK: privacy-preserving computing in the blockchain era |https://ieeexplore.ieee.org/document/9797340  |
 |Bonneau et al. [2015]          |SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies|https://ieeexplore.ieee.org/document/7163021|
 |Wang [2021] |SoK: Understanding BFT Consensus in the Age of Blockchains|https://eprint.iacr.org/2021/911|
-| Eskandari et al. [2020]     | Sok: Transparent dishonesty: front-running attacks on blockchain                                    | |
+| Eskandari et al. [2020]     | Sok: Transparent dishonesty: front-running attacks on blockchain                                    |https://link.springer.com/chapter/10.1007/978-3-030-43725-1_13 |
 | Baum et al. [2021]          | Sok: Mitigation of front-running in decentralized finance                                           | |
 |Raikwar et al. [2019]       | SoK of used cryptography in blockchain                                                              | |
 | Heimbach and Wattenhofer [2022]      | SoK: Preventing Transaction Reordering Manipulations in Decentralized Finance                       | |
@@ -94,7 +94,7 @@
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 | Kiayias and Lazos [2022]        | SoK: Blockchain Governance                                                        |                |
-|Chatzigiannis et al. [2021]   | SoK: Auditability and Accountability in Distributed Payment Systems               |                |
+|Chatzigiannis et al. [2021]   | SoK: Auditability and Accountability in Distributed Payment Systems               | https://link.springer.com/chapter/10.1007/978-3-030-78375-4_13               |
 | Kolachala et al. [2021]      | SoK: Money Laundering in Cryptocurrencies                                         |                |
 |Casino et al. [2022]      | SoK: Cross-border Criminal Investigations and Digital Evidence                    |                |
 | Deuber et al. [2022]        | SoK: Assumptions Underlying Cryptocurrency Deanonymizations\\--A Taxonomy for Scientific Experts and Legal Practitioners               |                |
