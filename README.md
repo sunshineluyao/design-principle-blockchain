@@ -6,7 +6,20 @@
 
 ## SoKs
 
-### Category 1 Security and Privacy
+### Worldcloud
+
+#### Title
+
+#### Abstract
+
+### Bigram
+
+#### Title
+
+#### Abstract
+
+###  Reference List
+#### Category 1 Security and Privacy
 
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
@@ -38,11 +51,7 @@
 |Franzoni and Daza [2022]   | SoK: Network-Level Attacks on the Bitcoin P2P Network                                               | |
 
 
-
-
-
-
-### Category 2 Scalability
+#### Category 2 Scalability
 
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
@@ -53,7 +62,7 @@
 | Zhou et al. [2020]   | Solutions to scalability of blockchain: A survey                                                    | |
 
 
-### Category 3 Decentralization
+#### Category 3 Decentralization
 
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
@@ -62,7 +71,7 @@
 | Raikwar and Gligoroski [2022]    | SoK: Decentralized Randomness Beacon Protocols                                                      | |
 
 
-### Category 4 Applicability
+#### Category 4 Applicability
  Citation                        | Title                                                                             | |
 |---------------------------------|-----------------------------------------------------------------------------------|--- |
 | Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               | |
@@ -86,11 +95,7 @@
 | Lande and Zunino [2018]         | SoK: unraveling Bitcoin smart contracts                                           |. |
 | Moin et al. [2020]     | SoK: A Classification Framework for Stablecoin Designs                            |      |
 
-
-
-
-
-### Category 5 Governance and Regulation
+#### Category 5 Governance and Regulation
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 | Kiayias and Lazos [2022]        | SoK: Blockchain Governance                                                        |                |
@@ -100,13 +105,13 @@
 | Deuber et al. [2022]        | SoK: Assumptions Underlying Cryptocurrency Deanonymizations\\--A Taxonomy for Scientific Experts and Legal Practitioners               |                |
 
 
-### Category 6 Blockchain System Design
+#### Category 6 Blockchain System Design
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 |Wang et al. [2020]      | SoK: Diving into DAG-based blockchain systems                                     |  |
 | Bellaj et al. [2022]      | SOK: a comprehensive survey on distributed ledger technologies                    |  |
 
-### Category 7 Cross-Chain and Interoperability
+####  Category 7 Cross-Chain and Interoperability
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 | Zamyatin et al. [2021]    | Sok: Communication across distributed ledgers                                     |  |         
