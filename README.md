@@ -186,7 +186,19 @@ and supportive space for builders.*
 
 ## Part III: Blockchain Standards 
 
+### 3.1. Wordcloud
+#### 3.1.1. Title
+<img src="./figs/standards/standard_wordcloud_title.png" alt="drawing" width="800"/>
+#### 3.1.2. Abstract
+<img src="./figs/standards/standard_wordcloud_abstract.png" alt="drawing" width="800"/>
 
+### 3.2. Bigram
+#### 3.2.1. Title
+- [Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/standards/standard_title_bigram.html)
+<img src="./figs/standards/standard_bigram_title.png" alt="drawing" width="800"/>
+#### 3.2.2. Abstract
+- [Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/standards/standard_abstract_bigram.html)
+<img src="./figs/standards/standard_bigram_abstract.png" alt="drawing" width="800"/>
 
 ### 3.3. References
 
