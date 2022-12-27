@@ -206,5 +206,14 @@ and supportive space for builders.*
 | International Telecommunication Union (ITU)                           | https://www.itu.int/en/ITU-T/focusgroups/dlt/Pages/default.aspx                                                     |
 | European Committee for Electrotechnical Standardization (CENELEC)     | https://www.cencenelec.eu/areas-of-work/cenelec-sectors/digital-society-cenelec/emerging-technologies/              |
 
-
+#### 3.3.2. Blockchain Standard Papers
+| Title                                                                                                            | URL                                                                                                                   |
+|:-----------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|
+| Comparing Blockchain Standards                                                                                   | https://www.mdpi.com/1999-5903/12/12/222/pdf                                                                          |
+| and Recommendations                                                                                              |                                                                                                                       |
+| Blockchain Standards for Compliance and Trust                                                                    | https://anjum.web.cern.ch/papers/d4sta.pdf                                                                            |
+| Global Standards  Mapping Initiative:  An overview of blockchain technical standards                             | https://www.weforum.org/whitepapers/global-standards-mapping-initiative-an-overview-of-blockchain-technical-standards |
+| A Web-based Ledger Data Model and Format: A position statement by Digital Bazaar for the W3C Blockchain Workshop | https://www.w3.org/2016/04/blockchain-workshop/interest/sporny-longley.html                                           |
+| Linked Data Indexing of Distributed Ledgers                                                                      | http://oro.open.ac.uk/49736/1/p1431.pdf                                                                               |
+| Developing Open and Interoperable DLT\/Blockchain Standards                                                      | https://www.computer.org/csdl/magazine/co/2018/11/08625908/17D45XfSEUx                                                |
 
