@@ -1,5 +1,13 @@
 # The Design Principle of Blockchain
 
+By Sunshine, Primitive Lane, Metaverse
+
+* Disclaimer: Primitives Lane is a non-profit research group focused on blockchain and other frontier technologies. We are dedicated
+to solving the most fundamental public issues in frontier fields, helping researchers grow steadily, and creating a friendly
+and supportive space for builders. *
+
+*Acknowledgments: TBA*
+
 ## Part I:  Blockchain Related SoKs
 
 ### 1.1. Worldcloud
