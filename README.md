@@ -1,6 +1,6 @@
 # The Design Principle of Blockchain
 
-<img src="./figs/wordcloud_blue.png" alt="drawing" width="800"/>
+
 
 
 
@@ -10,13 +10,19 @@
 
 #### Title
 
+<img src="./figs/SoKs/wordcloud_title.png" alt="drawing" width="800"/>
+
 #### Abstract
+<img src="./figs/SoKs/wordcloud_abstract.png" alt="drawing" width="800"/>
 
 ### Bigram
 
 #### Title
+<img src="./figs/SoKs/bigram_title.png" alt="drawing" width="800"/>
+
 
 #### Abstract
+<img src="./figs/SoKs/bigram_abstract.png" alt="drawing" width="800"/>
 
 ###  Reference List
 #### Category 1 Security and Privacy
