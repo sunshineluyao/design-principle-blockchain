@@ -131,7 +131,7 @@ and supportive space for builders.*
 | Eskandari et al. [2021]     | Sok: Oracles from the ground truth to market manipulation                         |  |
 | Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks         |  |
 
-## Part II: White papers for top blockchain project and/or cross-chain solutions
+## Part II: White papers for top blockchain projects and/or cross-chain solutions
 ### 1.1. Wordcloud
 #### 1.1.1. Title
 
