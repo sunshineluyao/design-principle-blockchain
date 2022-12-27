@@ -113,7 +113,7 @@ and supportive space for builders.*
 | Kiayias and Lazos [2022]        | SoK: Blockchain Governance           | https://arxiv.org/abs/2201.07188               |
 |Chatzigiannis et al. [2021]   | SoK: Auditability and Accountability in Distributed Payment Systems               | https://link.springer.com/chapter/10.1007/978-3-030-78375-4_13               |
 | Kolachala et al. [2021]      | SoK: Money Laundering in Cryptocurrencies     |  https://dl.acm.org/doi/abs/10.1145/3465481.3465774              |
-|Casino et al. [2022]      | SoK: Cross-border Criminal Investigations and Digital Evidence                    |[               ](https://academic.oup.com/cybersecurity/article/8/1/tyac014/6909060?login=false) |
+|Casino et al. [2022]      | SoK: Cross-border Criminal Investigations and Digital Evidence                    |https://arxiv.org/abs/2205.12911 |
 | Deuber et al. [2022]        | SoK: Assumptions Underlying Cryptocurrency Deanonymizations--A Taxonomy for Scientific Experts and Legal Practitioners               | https://eprint.iacr.org/2022/763               |
 
 
