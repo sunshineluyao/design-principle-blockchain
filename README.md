@@ -124,3 +124,5 @@
 | Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks         |  |
 
 ## Part II: White papers
+
+*Rank by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27*
