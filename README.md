@@ -123,9 +123,20 @@
 | Eskandari et al. [2021]     | Sok: Oracles from the ground truth to market manipulation                         |  |
 | Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks         |  |
 
-## Part II: White papers for top public blockchain projects
+## Part II: White papers for top blockchain project and/or cross-chain solutions
+### 1.1. Wordcloud
+#### 1.1.1. Title
 
-*The blockchain projects or cross-chain solutions ranked by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27* (dApps are excluded)
+#### 1.1.2. Abstract
+
+### 1.2. Bigram
+#### 1.2.1. Title
+
+### 1.2.2. Abstract
+
+### 1.3. Reference List
+
+*The blockchain projects and/or cross-chain solutions ranked by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27* (dApps are excluded)
 
 |   Rank  | name                   | symbol   |   Genesis | Type        | Coinmarketcap                                           | whitepaper                                                                                                                   |
 |--------:|:-----------------------|:---------|----------:|:------------|:--------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
