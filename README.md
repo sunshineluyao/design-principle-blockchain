@@ -125,6 +125,40 @@
 
 ## Part II: White papers for top public blockchain projects
 
-*The public blockchain projects ranked by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27*
+*The blockchain projects or cross-chain solutions ranked by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27* (dApps are excluded)
+
+|   Rank  | name                   | symbol   |   Genesis | Type        | Coinmarketcap                                           | whitepaper                                                                                                                   |
+|--------:|:-----------------------|:---------|----------:|:------------|:--------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+|       1 | Bitcoin                | BTC      |      2009 | Blockchain  | https://coinmarketcap.com/currencies/bitcoin/           | https://bitcoin.org/bitcoin.pdf                                                                                              |
+|       2 | Ethereum               | ETH      |      2015 | Blockchain  | https://coinmarketcap.com/currencies/ethereum/          | https://ethereum.org/en/whitepaper/                                                                                          |
+|       3 | Binance smart chain    | BNB      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/bnb/               | https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md                                                        |
+|       4 | XRP Ledger (Ripple)    | XRP      |      2021 | Blockchain  | https://coinmarketcap.com/currencies/xrp/               | https://ripple.com/files/ripple_consensus_whitepaper.pdf                                                                     |
+|       5 | Cardano                | ADA      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/cardano/           | https://docs.cardano.org/en/latest/                                                                                          |
+|       6 | Polkadot               | DOT      |      2022 | Cross-chain | https://coinmarketcap.com/currencies/polkadot-new/      | https://polkadot.network/PolkaDotPaper.pdf                                                                                   |
+|       7 | TRON                   | TRX      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/tron/              | https://tron.network/static/doc/white_paper_v_2_0.pdf                                                                        |
+|       8 | Solana                 | SOL      |      2020 | Blockchain  | https://coinmarketcap.com/currencies/solana/            | https://solana.com/solana-whitepaper.pdf                                                                                     |
+|       9 | Avalanche              | AVAX     |      2020 | Blockchain  | https://coinmarketcap.com/currencies/avalanche/         | https://assets.website-files.com/5d80307810123f5ffbb34d6e/6008d7bc56430d6b8792b8d1_Avalanche%20Native%20Token%20Dynamics.pdf |
+|      10 | Chainlink              | LINK     |      2017 | Cross-chain | https://coinmarketcap.com/currencies/chainlink/         | https://chain.link/whitepaper                                                                                                |
+|      11 | The Open Network (TON) | TON      |      2018 | Blockchain  | https://coinmarketcap.com/currencies/toncoin/           | https://tron.network/static/doc/white_paper_v_2_0.pdf                                                                        |
+|      12 | Cosmos                 | ATOM     |      2016 | Cross-chain | https://coinmarketcap.com/currencies/cosmos/            | https://v1.cosmos.network/resources/whitepaper                                                                               |
+|      13 | Stellar                | XLM      |      2015 | Blockchain  | https://coinmarketcap.com/currencies/stellar/           | https://www.stellar.org/papers/stellar-consensus-protocol.pdf                                                                |
+|      14 | Cronos Chain           | CRO      |      2018 | Blockchain  | https://coinmarketcap.com/currencies/cronos/            | https://whitepaper.cronos.org/                                                                                               |
+|      15 | Quant Overledger       | QNT      |      2018 | Cross-chain | https://coinmarketcap.com/currencies/quant/             | https://whitepaper.io/coin/quant                                                                                             |
+|      16 | Agorand                | ALGO     |      2019 | Blockchain  | https://coinmarketcap.com/currencies/algorand/          | https://www.algorand.com/technology/white-papers                                                                             |
+|      17 | NEAR Protocol          | NEAR     |      2021 | Blockchain  | https://coinmarketcap.com/currencies/near-protocol/     | https://near.org/papers/the-official-near-white-paper/                                                                       |
+|      18 | Filecoin               | FIL      |      2017 | Cross-chain | https://coinmarketcap.com/currencies/filecoin/          | https://whitepaper.io/coin/filecoin                                                                                          |
+|      19 | Hedera                 | HBAR     |      2019 | Blockchain  | https://coinmarketcap.com/currencies/hedera/            | https://www.hedera.com/papers                                                                                                |
+|      20 | Internet Computer      | ICP      |      2021 | Blockchain  | https://coinmarketcap.com/currencies/internet-computer/ | https://internetcomputer.org/whitepaper.pdf                                                                                  |
+|      21 | EOS Network            | EOS      |      2018 | Blockchain  | https://coinmarketcap.com/currencies/eos/               | https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md                                                    |
+|      22 | MultiversX (Elrond)    | EGLD     |      2020 | Blockchain  | https://coinmarketcap.com/currencies/elrond-egld/       | https://elrond.com/assets/files/elrond-whitepaper.pdf                                                                        |
+|      23 | Flow                   | FLOW     |      2018 | Blockchain  | https://coinmarketcap.com/currencies/flow/              | https://www.onflow.org/technical-paper/                                                                                      |
+|      24 | Theta Network          | THETA    |      2019 | Blockchain  | https://coinmarketcap.com/currencies/theta-network/     | https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf                                        |
+|      25 | Tezos                  | XTZ      |      2018 | Blockchain  | https://coinmarketcap.com/currencies/tezos/             | https://tezos.com/whitepaper.pdf                                                                                             |
+|      26 | Zcash                  | ZEC      |      2016 | Blockchain  | https://coinmarketcap.com/currencies/zcash/             | https://github.com/zcash/zips/blob/master/protocol/protocol.pdf                                                              |
+|      27 | Klaytn                 | KLAY     |      2019 | Blockchain  | https://coinmarketcap.com/currencies/klaytn/            | https://whitepaper.io/coin/klaytn                                                                                            |
+|      28 | Dash                   | DASH     |      2014 | Blockchain  | https://coinmarketcap.com/currencies/dash/              | https://whitepaper.io/coin/dash                                                                                              |
 
 ## Part III: Blockchain Standards 
+
+
+
