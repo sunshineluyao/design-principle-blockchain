@@ -39,39 +39,39 @@ and supportive space for builders.*
 |Bonneau et al. [2015]          |SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies|https://ieeexplore.ieee.org/document/7163021|
 |Wang [2021] |SoK: Understanding BFT Consensus in the Age of Blockchains|https://eprint.iacr.org/2021/911|
 | Eskandari et al. [2020]     | Sok: Transparent dishonesty: front-running attacks on blockchain                                    |https://link.springer.com/chapter/10.1007/978-3-030-43725-1_13 |
-| Baum et al. [2021]          | Sok: Mitigation of front-running in decentralized finance                                           | |
-|Raikwar et al. [2019]       | SoK of used cryptography in blockchain                                                              | |
-| Heimbach and Wattenhofer [2022]      | SoK: Preventing Transaction Reordering Manipulations in Decentralized Finance                       | |
-|Zhou et al. [2022]       | SoK: Decentralized Finance (DeFi) Incidents                                                         | |
-|Li et al. [2022]          | SoK: TEE-assisted Confidential Smart Contract                                                       | |
-|Ankele et al. [2020]        | SoK: Cyber-Attack Taxonomy of Distributed Ledger-and Legacy Systems-based Financial Infrastructures | |
-|Yang et al. [2022]          | SoK: MEV Countermeasures: Theory and Practice                                                       |  |
-|Azouvi and Hicks [2019]        | Sok: Tools for game theoretic models of security for cryptocurrencies                               | |
-|Atzei et al. [2017]      | A survey of attacks on ethereum smart contracts (sok)                                               | |
-|Judmayer et al. [2021]      | Sok: Algorithmic incentive manipulation attacks on permissionless pow cryptocurrencies              | |
-| Di Angelo et al. [2020]            | SoK: Development of secure smart contracts--lessons from a graduate course                          | |
-| Chen et al. [2020]      | A survey on ethereum systems security: Vulnerabilities, attacks, and defenses                       | |
-| Islam et al. [2021]     | A Review on Blockchain Security Issues and Challenges                                               | |
-|Li et al. [2020]      | A survey on the security of blockchain systems                                                      | |
-| Garay and Kiayias [2020]     | Sok: A consensus taxonomy in the blockchain era                                                     | |
-| Tekiner et al. [2021]      | SoK: cryptojacking malware                                                                          | |
-|Alsalami and Zhang [2019]     | SoK: A systematic study of anonymity in cryptocurrencies                                            | |
-| Deuber et al. [2022]       | SoK: Assumptions Underlying Cryptocurrency Deanonymizations                                         | |
-| Rinberg and Agarwal [2022]   | Privacy when Everyone is Watching: An SOK on Anonymity on the Blockchain                            | |
-| Bonomi et al. [2021]      | SoK: Achieving State Machine Replication in Blockchains based on Repeated Consensus                 | |
-| Ghesmati et al. [2021]      | SoK: How private is Bitcoin? Classification and Evaluation of Bitcoin Mixing Techniques             | |
-|Franzoni and Daza [2022]   | SoK: Network-Level Attacks on the Bitcoin P2P Network                                               | |
+| Baum et al. [2021]          | Sok: Mitigation of front-running in decentralized finance                                           |https://eprint.iacr.org/2021/1628 |
+|Raikwar et al. [2019]       | SoK of used cryptography in blockchain                                                              |https://ieeexplore.ieee.org/document/8865045 |
+| Heimbach and Wattenhofer [2022]      | SoK: Preventing Transaction Reordering Manipulations in Decentralized Finance                       |https://arxiv.org/abs/2203.11520|
+|Zhou et al. [2022]       | SoK: Decentralized Finance (DeFi) Incidents                                                         | https://arxiv.org/abs/2208.13035|
+|Li et al. [2022]          | SoK: TEE-assisted Confidential Smart Contract                                                       |https://arxiv.org/abs/2203.08548 |
+|Ankele et al. [2020]        | SoK: Cyber-Attack Taxonomy of Distributed Ledger-and Legacy Systems-based Financial Infrastructures |https://www.joanneum.at/en/digital/publications/details/sok-cyber-attack-taxonomy-of-distributed-ledger-and-legacy-systems-based-financial-infrastructures |
+|Yang et al. [2022]          | SoK: MEV Countermeasures: Theory and Practice                                                       |https://arxiv.org/abs/2212.05111  |
+|Azouvi and Hicks [2019]        | Sok: Tools for game theoretic models of security for cryptocurrencies                               |https://arxiv.org/abs/1905.08595 |
+|Atzei et al. [2017]      | A survey of attacks on ethereum smart contracts (sok)                                               | https://dl.acm.org/doi/10.1007/978-3-662-54455-6_8|
+|Judmayer et al. [2021]      | Sok: Algorithmic incentive manipulation attacks on permissionless pow cryptocurrencies              |https://link.springer.com/chapter/10.1007/978-3-662-63958-0_38 |
+| Di Angelo et al. [2020]            | SoK: Development of secure smart contracts--lessons from a graduate course                          |https://link.springer.com/chapter/10.1007/978-3-030-43725-1_8 |
+| Chen et al. [2020]      | A survey on ethereum systems security: Vulnerabilities, attacks, and defenses                       |https://dl.acm.org/doi/fullHtml/10.1145/3391195 |
+| Islam et al. [2021]     | A Review on Blockchain Security Issues and Challenges                                               |https://ieeexplore.ieee.org/document/9515276 |
+|Li et al. [2020]      | A survey on the security of blockchain systems                                                      |https://www.sciencedirect.com/science/article/abs/pii/S0167739X17318332 |
+| Garay and Kiayias [2020]     | Sok: A consensus taxonomy in the blockchain era                                                     |https://eprint.iacr.org/2018/754 |
+| Tekiner et al. [2021]      | SoK: cryptojacking malware                                                                          |https://arxiv.org/abs/2103.03851 |
+|Alsalami and Zhang [2019]     | SoK: A systematic study of anonymity in cryptocurrencies                                            |https://ieeexplore.ieee.org/document/8937681 |
+| Deuber et al. [2022]       | SoK: Assumptions Underlying Cryptocurrency Deanonymizations                                         |https://eprint.iacr.org/2022/763 |
+| Rinberg and Agarwal [2022]   | Privacy when Everyone is Watching: An SOK on Anonymity on the Blockchain                            | https://eprint.iacr.org/2022/985|
+| Bonomi et al. [2021]      | SoK: Achieving State Machine Replication in Blockchains based on Repeated Consensus                 |https://arxiv.org/abs/2105.13732 |
+| Ghesmati et al. [2021]      | SoK: How private is Bitcoin? Classification and Evaluation of Bitcoin Mixing Techniques             |https://eprint.iacr.org/2021/629 |
+|Franzoni and Daza [2022]   | SoK: Network-Level Attacks on the Bitcoin P2P Network                                               |https://dl.acm.org/doi/abs/10.1145/3538969.3538971 |
 
 
 #### 1.3.2. Category 2 Scalability
 
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
-| Wang et al. [2019]        | SoK: Sharding on Blockchain                                                                         | |
-| Gudgeon et al. [2020]     | SoK: Layer-Two Blockchain Protocols                                                                 | |
-| McCorry et al. [2021]   | Sok: Validating bridges as a scaling solution for blockchains                                       | |
-| Chatzigiannis et al. [2022] | Sok: Blockchain light clients                                                                       | |
-| Zhou et al. [2020]   | Solutions to scalability of blockchain: A survey                                                    | |
+| Wang et al. [2019]        | SoK: Sharding on Blockchain                                                                         |https://dl.acm.org/doi/10.1145/3318041.3355457 |
+| Gudgeon et al. [2020]     | SoK: Layer-Two Blockchain Protocols                                                                 |https://link.springer.com/chapter/10.1007/978-3-030-51280-4_12 |
+| McCorry et al. [2021]   | Sok: Validating bridges as a scaling solution for blockchains                                       |https://link.springer.com/chapter/10.1007/978-3-030-51280-4_12 |
+| Chatzigiannis et al. [2022] | Sok: Blockchain light clients                                                                       |https://dl.acm.org/doi/abs/10.1007/978-3-031-18283-9_31 |
+| Zhou et al. [2020]   | Solutions to scalability of blockchain: A survey                                                    |https://ieeexplore.ieee.org/document/8962150 |
 
 
 #### 1.3.3. Category 3 Decentralization
