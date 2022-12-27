@@ -14,11 +14,12 @@
 ### 1.2. Bigram
 
 #### 1.2.1. Title
-- [Click Here to See the Interactive Figures](https://sunshineluyao.github.io/design-principle-blockchain/figs/SoKs/title_bigram.html)
+- [Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/SoKs/title_bigram.html)
 <img src="./figs/SoKs/bigram_title.png" alt="drawing" width="800"/>
 
 
 #### 1.2.2. Abstract
+- [Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/SoKs/abstract_bigram.html)
 <img src="./figs/SoKs/bigram_abstract.png" alt="drawing" width="800"/>
 
 ###  1.3. Reference List
