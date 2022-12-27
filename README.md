@@ -123,6 +123,8 @@
 | Eskandari et al. [2021]     | Sok: Oracles from the ground truth to market manipulation                         |  |
 | Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks         |  |
 
-## Part II: White papers
+## Part II: White papers for top public blockchain projects
 
-*Rank by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27*
+*The public blockchain projects ranked by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27*
+
+## Part III: Blockchain Standards 
