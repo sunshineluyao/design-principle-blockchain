@@ -110,26 +110,26 @@ and supportive space for builders.*
 #### 1.3.5.  Category 5 Governance and Regulation
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
-| Kiayias and Lazos [2022]        | SoK: Blockchain Governance                                                        |                |
+| Kiayias and Lazos [2022]        | SoK: Blockchain Governance           | https://arxiv.org/abs/2201.07188               |
 |Chatzigiannis et al. [2021]   | SoK: Auditability and Accountability in Distributed Payment Systems               | https://link.springer.com/chapter/10.1007/978-3-030-78375-4_13               |
-| Kolachala et al. [2021]      | SoK: Money Laundering in Cryptocurrencies                                         |                |
-|Casino et al. [2022]      | SoK: Cross-border Criminal Investigations and Digital Evidence                    |                |
-| Deuber et al. [2022]        | SoK: Assumptions Underlying Cryptocurrency Deanonymizations\\--A Taxonomy for Scientific Experts and Legal Practitioners               |                |
+| Kolachala et al. [2021]      | SoK: Money Laundering in Cryptocurrencies     |  https://dl.acm.org/doi/abs/10.1145/3465481.3465774              |
+|Casino et al. [2022]      | SoK: Cross-border Criminal Investigations and Digital Evidence                    |[               ](https://academic.oup.com/cybersecurity/article/8/1/tyac014/6909060?login=false) |
+| Deuber et al. [2022]        | SoK: Assumptions Underlying Cryptocurrency Deanonymizations--A Taxonomy for Scientific Experts and Legal Practitioners               | https://eprint.iacr.org/2022/763               |
 
 
 #### 1.3.6. Category 6 Blockchain System Design
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
-|Wang et al. [2020]      | SoK: Diving into DAG-based blockchain systems                                     |  |
-| Bellaj et al. [2022]      | SOK: a comprehensive survey on distributed ledger technologies                    |  |
+|Wang et al. [2020]      | SoK: Diving into DAG-based blockchain systems                  |https://arxiv.org/abs/2012.06128  |
+| Bellaj et al. [2022]      | SoK: a comprehensive survey on distributed ledger technologies |https://hal.archives-ouvertes.fr/hal-03609651/  |
 
 #### 1.3.7. Category 7 Cross-Chain and Interoperability
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
-| Zamyatin et al. [2021]    | Sok: Communication across distributed ledgers                                     |  |         
-| Wang [2021]         | Sok: Exploring blockchains interoperability                                       |  |
-| Eskandari et al. [2021]     | Sok: Oracles from the ground truth to market manipulation                         |  |
-| Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks         |  |
+| Zamyatin et al. [2021]    | Sok: Communication across distributed ledgers  |https://link.springer.com/chapter/10.1007/978-3-662-64331-0_1  |         
+| Wang [2021]         | Sok: Exploring blockchains interoperability             |https://eprint.iacr.org/2021/537  |
+| Eskandari et al. [2021]     | Sok: Oracles from the ground truth to market manipulation   |https://dl.acm.org/doi/abs/10.1145/3479722.3480994  |
+| Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks  |https://arxiv.org/abs/2210.16209  |
 
 ## Part II: White papers for top blockchain projects and/or cross-chain solutions
 ### 1.1. Wordcloud
