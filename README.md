@@ -84,7 +84,7 @@ and supportive space for builders.*
 
 
 #### 1.3.4. Category 4 Applicability
- Citation                        | Title                        |   |
+ Citation                        | Title                        | URL  |
 |---------------------------------|-----------------------------------------------------------------------------------|--- |
 | Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               |https://link.springer.com/chapter/10.1007/978-3-030-51280-4_12 |
 | Bartoletti et al. [2021]      | SoK: lending pools in decentralized finance                                       |https://link.springer.com/chapter/10.1007/978-3-662-63958-0_40 |
