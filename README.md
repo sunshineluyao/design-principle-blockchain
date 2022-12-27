@@ -1,31 +1,27 @@
 # The Design Principle of Blockchain
 
+## Part I:  Blockchain Related SoKs
 
+### 1.1. Worldcloud
 
-
-
-## SoKs
-
-### Worldcloud
-
-#### Title
+#### 1.1.1. Title
 
 <img src="./figs/SoKs/wordcloud_title.png" alt="drawing" width="800"/>
 
-#### Abstract
+#### 1.1.2. Abstract
 <img src="./figs/SoKs/wordcloud_abstract.png" alt="drawing" width="800"/>
 
-### Bigram
+### 1.2. Bigram
 
-#### Title
+#### 1.2.1. Title
 <img src="./figs/SoKs/bigram_title.png" alt="drawing" width="800"/>
 
 
-#### Abstract
+#### 1.2.2. Abstract
 <img src="./figs/SoKs/bigram_abstract.png" alt="drawing" width="800"/>
 
-###  Reference List
-#### Category 1 Security and Privacy
+###  1.3. Reference List
+#### 1.3.1. Category 1 Security and Privacy
 
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
@@ -57,7 +53,7 @@
 |Franzoni and Daza [2022]   | SoK: Network-Level Attacks on the Bitcoin P2P Network                                               | |
 
 
-#### Category 2 Scalability
+#### 1.3.2. Category 2 Scalability
 
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
@@ -68,7 +64,7 @@
 | Zhou et al. [2020]   | Solutions to scalability of blockchain: A survey                                                    | |
 
 
-#### Category 3 Decentralization
+#### 1.3.3. Category 3 Decentralization
 
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
@@ -77,7 +73,7 @@
 | Raikwar and Gligoroski [2022]    | SoK: Decentralized Randomness Beacon Protocols                                                      | |
 
 
-#### Category 4 Applicability
+#### 1.3.4. Category 4 Applicability
  Citation                        | Title                                                                             | |
 |---------------------------------|-----------------------------------------------------------------------------------|--- |
 | Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               | |
@@ -101,7 +97,7 @@
 | Lande and Zunino [2018]         | SoK: unraveling Bitcoin smart contracts                                           |. |
 | Moin et al. [2020]     | SoK: A Classification Framework for Stablecoin Designs                            |      |
 
-#### Category 5 Governance and Regulation
+#### 1.3.5.  Category 5 Governance and Regulation
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 | Kiayias and Lazos [2022]        | SoK: Blockchain Governance                                                        |                |
@@ -111,13 +107,13 @@
 | Deuber et al. [2022]        | SoK: Assumptions Underlying Cryptocurrency Deanonymizations\\--A Taxonomy for Scientific Experts and Legal Practitioners               |                |
 
 
-#### Category 6 Blockchain System Design
+#### 1.3.6. Category 6 Blockchain System Design
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 |Wang et al. [2020]      | SoK: Diving into DAG-based blockchain systems                                     |  |
 | Bellaj et al. [2022]      | SOK: a comprehensive survey on distributed ledger technologies                    |  |
 
-####  Category 7 Cross-Chain and Interoperability
+#### 1.3.7. Category 7 Cross-Chain and Interoperability
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 | Zamyatin et al. [2021]    | Sok: Communication across distributed ledgers                                     |  |         
@@ -125,4 +121,4 @@
 | Eskandari et al. [2021]     | Sok: Oracles from the ground truth to market manipulation                         |  |
 | Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks         |  |
 
-## White papers
+## Part II: White papers
