@@ -135,6 +135,8 @@ and supportive space for builders.*
 ### 1.1. Wordcloud
 #### 1.1.1. Title
 
+<img src="./figs/whitepapers/whitepaper_wordcloud_title.png" alt="drawing" width="800"/>
+
 #### 1.1.2. Abstract
 
 ### 1.2. Bigram
