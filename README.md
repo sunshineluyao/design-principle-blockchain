@@ -188,3 +188,23 @@ and supportive space for builders.*
 
 
 
+### 3.3. References
+
+#### 3.3.1. Blokchain Standard Development References by Institution
+
+| Institution                                                           | Blockchain Standard Development Reference                                                                           |
+|:----------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
+| The European Commission                                               | https://digital-strategy.ec.europa.eu/en/policies/blockchain-standards                                              |
+| IEEE                                                                  | https://blockchain.ieee.org/standards                                                                               |
+| The World Wide Web Consortium (W3C)                                   | https://www.w3.org/2016/04/blockchain-workshop/report.html                                                          |
+| International Association for Trusted Blockchain Applications (Iatba) | https://inatba.org/standards-committee-working-group-lp/                                                            |
+| National Institute of Standards and Technology (NIST)                 | https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf                                                          |
+| ANSI Accredited Standards Committee X9                                | https://x9.org/wp-content/uploads/2018/04/Distributed-Ledger-and-Blockchain-Technology-Study-Group-Report-FINAL.pdf |
+| International Organization for Standardization (ISO)                  | https://www.iso.org/committee/6266604.html                                                                          |
+| The European Union Agency for Cybersecurity (ENISA)                   | https://www.enisa.europa.eu/news/enisa-news/enisa-report-on-blockchain-technology-and-security                      |
+| German Federal Office for Information Security (BSI)                  | https://www.bsigroup.com/globalassets/localfiles/en-gb/bsi_blockchain_dlt_web.pdf                                   |
+| International Telecommunication Union (ITU)                           | https://www.itu.int/en/ITU-T/focusgroups/dlt/Pages/default.aspx                                                     |
+| European Committee for Electrotechnical Standardization (CENELEC)     | https://www.cencenelec.eu/areas-of-work/cenelec-sectors/digital-society-cenelec/emerging-technologies/              |
+
+
+
