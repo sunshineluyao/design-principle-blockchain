@@ -78,34 +78,34 @@ and supportive space for builders.*
 
 |Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
-| Zhang et al. [2022]       | Blockchain Decentralization                                                                         | |
-| Karakostas et al. [2022]   | SoK: A Stratified Approach to Blockchain Decentralization                                           | |
-| Raikwar and Gligoroski [2022]    | SoK: Decentralized Randomness Beacon Protocols                                                      | |
+| Zhang et al. [2022]       | SoK: Blockchain Decentralization                                                                     |https://arxiv.org/abs/2205.04256 |
+| Karakostas et al. [2022]   | SoK: A Stratified Approach to Blockchain Decentralization                                           |https://arxiv.org/abs/2211.01291 |
+| Raikwar and Gligoroski [2022]    | SoK: Decentralized Randomness Beacon Protocols  | https://arxiv.org/abs/2205.13333|
 
 
 #### 1.3.4. Category 4 Applicability
  Citation                        | Title                                                                             | |
 |---------------------------------|-----------------------------------------------------------------------------------|--- |
-| Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               | |
-| Bartoletti et al. [2021]      | SoK: lending pools in decentralized finance                                       | |
-| Werner et al. [2021]          | SoK: Decentralized Finance (DeFi)                                                 | |
-| Xu et al. [2021]              | SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols    | |
-| Shi et al. [2021]      | When Blockchain Meets Auction Models: A Survey, Some Applications, and Challenges |        |
-| Abuidris et al. [2019]      | A survey of blockchain-based on e-voting systems                                  |  |
-| Gadekallu et al. [2022]  | Blockchain for the Metaverse: A Review                                            |     |
-| Ali et al. [2019]       | Blockchain and the future of the internet: A comprehensive review                 |      |
-| Cousaert et al. [2022]      | Sok: Yield aggregators in defi                                                    | |
-| Yu et al. [2022]   | SoK: Play-to-Earn Projects                                                        |.         |
-| Dotan et al. [2020]  | SOK: cryptocurrency networking context, state-of-the-art, challenges              |.       |
-| Moin et al. [2020]   | SoK: A classification framework for stablecoin designs                            |.       |
-| Gan et al. [2021]   | A critical review of blockchain applications to banking and finance:\\ a qualitative thematic analysis approach | |
-| Dasaklis et al. [2021]    | Sok: Blockchain solutions for forensics                                           |.        |
-| Wang [2021]      | SoK: tokenization on blockchain                                                   | |
-|Karantias [2020]   | Sok: A taxonomy of cryptocurrency wallets                                         | |
-| Clark et al. [2019]  | SoK: demystifying stablecoins                                                     |       |
-| Jourenko et al. [2019]      | SoK: A taxonomy for layer-2 scalability related protocols for cryptocurrencies    |    |
-| Lande and Zunino [2018]         | SoK: unraveling Bitcoin smart contracts                                           |. |
-| Moin et al. [2020]     | SoK: A Classification Framework for Stablecoin Designs                            |      |
+| Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               |https://link.springer.com/chapter/10.1007/978-3-030-51280-4_12 |
+| Bartoletti et al. [2021]      | SoK: lending pools in decentralized finance                                       |https://link.springer.com/chapter/10.1007/978-3-662-63958-0_40 |
+| Werner et al. [2021]          | SoK: Decentralized Finance (DeFi)                                                 |https://arxiv.org/abs/2101.08778 |
+| Xu et al. [2021]              | SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) Protocols    |https://arxiv.org/abs/2103.12732 |
+| Shi et al. [2021]      | When Blockchain Meets Auction Models: A Survey, Some Applications, and Challenges |  https://arxiv.org/abs/2110.12534      |
+| Abuidris et al. [2019]      | A survey of blockchain-based on e-voting systems                                  |https://dl.acm.org/doi/abs/10.1145/3376044.3376060  |
+| Gadekallu et al. [2022]  | Blockchain for the Metaverse: A Review                                            | https://arxiv.org/abs/2203.09738    |
+| Ali et al. [2019]       | Blockchain and the future of the internet: A comprehensive review                 |https://arxiv.org/abs/1904.00733      |
+| Cousaert et al. [2022]      | Sok: Yield aggregators in defi                                                    | https://arxiv.org/abs/2105.13891|
+| Yu et al. [2022]   | SoK: Play-to-Earn Projects                                                        |https://arxiv.org/abs/2211.01000         |
+| Dotan et al. [2020]  | SoK: cryptocurrency networking context, state-of-the-art, challenges     |https://dl.acm.org/doi/10.1145/3407023.3407043      |
+| Moin et al. [2020]   | SoK: A classification framework for stablecoin designs  | https://link.springer.com/chapter/10.1007/978-3-030-51280-4_11     |
+| Gan et al. [2021]   | A critical review of blockchain applications to banking and finance: a qualitative thematic analysis approach |https://www.tandfonline.com/doi/abs/10.1080/09537325.2021.1979509?journalCode=ctas20 |
+| Dasaklis et al. [2021]    | Sok: Blockchain solutions for forensics                                           |https://link.springer.com/chapter/10.1007/978-3-030-69460-9_2        |
+| Wang [2021]      | SoK: tokenization on blockchain                                      | https://eprint.iacr.org/2021/1536|
+|Karantias [2020]   | Sok: A taxonomy of cryptocurrency wallets                         |https://eprint.iacr.org/2020/868 |
+| Clark et al. [2019]  | SoK: demystifying stablecoins                                  |https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466371       |
+| Jourenko et al. [2019]      | SoK: A taxonomy for layer-2 scalability related protocols for cryptocurrencies    |https://eprint.iacr.org/2019/352    |
+| Lande and Zunino [2018]         | SoK: unraveling Bitcoin smart contracts                                           |https://iris.unica.it/handle/11584/251263 |
+| Moin et al. [2020]     | SoK: A Classification Framework for Stablecoin Designs                            |https://link.springer.com/chapter/10.1007/978-3-030-51280-4_11      |
 
 #### 1.3.5.  Category 5 Governance and Regulation
 |Citation                       | Title                                                  | URL                                          | 
