@@ -3,6 +3,7 @@
 By Sunshine, Primitive Lane, Metaverse
 
 <img src="./figs/ChatGPT3/Sunshine_and_ChatGPT3.png" alt="drawing" width="800"/>
+**Figure: A conversation between Sunshine and Chat GPT-3 on 2022/12/30**
 
 
 *Disclaimer: Primitives Lane is a non-profit research group focused on blockchain and other frontier technologies. We are dedicated
