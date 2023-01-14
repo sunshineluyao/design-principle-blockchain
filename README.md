@@ -206,12 +206,10 @@ and supportive space for builders.*
 ### 3.2. Bigram
 #### 3.2.1. Title
 - [Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/standards/standard_title_bigram.html)
--
-<img src="./figs/standards/standard_bigram_title.png" alt="drawing" width="800"/>
+- <img src="./figs/standards/standard_bigram_title.png" alt="drawing" width="800"/>
 #### 3.2.2. Abstract
 - [Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/standards/standard_abstract_bigram.html)
-- 
-<img src="./figs/standards/standard_bigram_abstract.png" alt="drawing" width="800"/>
+- <img src="./figs/standards/standard_bigram_abstract.png" alt="drawing" width="800"/>
 
 ### 3.3. References
 
