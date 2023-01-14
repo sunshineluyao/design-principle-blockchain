@@ -160,8 +160,8 @@ and supportive space for builders.*
 
 *The blockchain projects and/or cross-chain solutions ranked by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27* (dApps are excluded)
 
-|   Rank  | name                   | symbol   |   Genesis | Type        | Coinmarketcap                                           | whitepaper                                                                                                                   |
-|--------:|:-----------------------|:---------|----------:|:------------|:--------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+|   Rank  | name                   | symbol   |   Genesis | Type        | Coinmarketcap| whitepaper    |
+|--------:|:-----------------------|:---------|----------:|:------------|:-------------|:------------------------------------------|
 |       1 | Bitcoin                | BTC      |      2009 | Blockchain  | https://coinmarketcap.com/currencies/bitcoin/           | https://bitcoin.org/bitcoin.pdf                                                                                              |
 |       2 | Ethereum               | ETH      |      2015 | Blockchain  | https://coinmarketcap.com/currencies/ethereum/          | https://ethereum.org/en/whitepaper/                                                                                          |
 |       3 | Binance smart chain    | BNB      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/bnb/               | https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md                                                        |
@@ -189,7 +189,7 @@ and supportive space for builders.*
 |      25 | Tezos                  | XTZ      |      2018 | Blockchain  | https://coinmarketcap.com/currencies/tezos/             | https://tezos.com/whitepaper.pdf                                                                                             |
 |      26 | Zcash                  | ZEC      |      2016 | Blockchain  | https://coinmarketcap.com/currencies/zcash/             | https://github.com/zcash/zips/blob/master/protocol/protocol.pdf                                                              |
 |      27 | Klaytn                 | KLAY     |      2019 | Blockchain  | https://coinmarketcap.com/currencies/klaytn/            | https://whitepaper.io/coin/klaytn                                                                                            |
-|      28 | Dash                   | DASH     |      2014 | Blockchain  | https://coinmarketcap.com/currencies/dash/              | https://whitepaper.io/coin/dash                                                                                              |
+|      28 | Dash                   | DASH     |      2014 | Blockchain  | https://coinmarketcap.com/currencies/dash/              | https://whitepaper.io/coin/dash|                                                                                              |
 
 ## Part III: Blockchain Standards 
 
