@@ -135,6 +135,8 @@ and supportive space for builders.*
 | Wang [2021]         | Sok: Exploring blockchains interoperability             |https://eprint.iacr.org/2021/537  |
 | Eskandari et al. [2021]     | Sok: Oracles from the ground truth to market manipulation   |https://dl.acm.org/doi/abs/10.1145/3479722.3480994  |
 | Lee et al. [2022]      | SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks  |https://arxiv.org/abs/2210.16209  |
+|  Belchior et al. [2021]       |  A Survey on Blockchain Interoperability: Past, Present, and Future Trends | https://dl.acm.org/doi/10.1145/3471140 |
+| Belchior et al. [2022]    | Do You Need a Distributed Ledger Technology Interoperability Solution?|https://dl.acm.org/doi/10.1145/3564532|
 
 ## Part II: White papers for top blockchain projects and/or cross-chain solutions
 ### 1.1. Wordcloud
