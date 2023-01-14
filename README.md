@@ -27,12 +27,12 @@ and supportive space for builders.*
 ### 1.2. Bigram
 
 #### 1.2.1. Title
-- [Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/SoKs/title_bigram.html)
+-[Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/SoKs/title_bigram.html)
 <img src="./figs/SoKs/bigram_title.png" alt="drawing" width="800"/>
 
 
 #### 1.2.2. Abstract
-- [Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/SoKs/abstract_bigram.html)
+-[Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/SoKs/abstract_bigram.html)
 <img src="./figs/SoKs/bigram_abstract.png" alt="drawing" width="800"/>
 
 ###  1.3. Reference List
@@ -123,7 +123,7 @@ and supportive space for builders.*
 
 
 #### 1.3.6. Category 6 Blockchain System Design
-|Citation                       | Title                                                  | URL                                          | 
+| Citation                       | Title                                                  | URL                                          | 
 |-------------------------------|--------------------------------------------------------|----------------------------------------------|
 |Wang et al. [2020]      | SoK: Diving into DAG-based blockchain systems                  |https://arxiv.org/abs/2012.06128  |
 | Bellaj et al. [2022]      | SoK: a comprehensive survey on distributed ledger technologies |https://hal.archives-ouvertes.fr/hal-03609651/  |
@@ -149,11 +149,13 @@ and supportive space for builders.*
 
 ### 1.2. Bigram
 #### 1.2.1. Title
+
 -[Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/whitepapers/whitepaper_title_bigram.html)
 
 <img src="./figs/whitepapers/whitepaper_bigram_title.png" alt="drawing" width="800"/>
 
 ### 1.2.2. Abstract
+
 -[Click Here to See the Interactive Figure](https://sunshineluyao.github.io/design-principle-blockchain/figs/whitepapers/whitepaper_abstract_bigram.html)
 
 <img src="./figs/whitepapers/whitepaper_bigram_abstract.png" alt="drawing" width="800"/>
