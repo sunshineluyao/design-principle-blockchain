@@ -89,8 +89,8 @@ and supportive space for builders.*
 
 
 #### 1.3.4. Category 4 Applicability
- Citation                        | Title                        | URL  |
-|---------------------------------|-----------------------------------------------------------------------------------|--- |
+| Citation                        | Title                        | URL  |
+|---------------------------------|-----------------------------|-----------------------------------------|
 | Gudgeon et al. [2020]         | SoK: Layer-Two Blockchain Protocols                                               |https://link.springer.com/chapter/10.1007/978-3-030-51280-4_12 |
 | Bartoletti et al. [2021]      | SoK: lending pools in decentralized finance                                       |https://link.springer.com/chapter/10.1007/978-3-662-63958-0_40 |
 | Werner et al. [2021]          | SoK: Decentralized Finance (DeFi)                                                 |https://arxiv.org/abs/2101.08778 |
@@ -100,7 +100,7 @@ and supportive space for builders.*
 | Gadekallu et al. [2022]  | Blockchain for the Metaverse: A Review                                            | https://arxiv.org/abs/2203.09738    |
 | Ali et al. [2019]       | Blockchain and the future of the internet: A comprehensive review                 |https://arxiv.org/abs/1904.00733      |
 | Cousaert et al. [2022]      | Sok: Yield aggregators in defi                                                    | https://arxiv.org/abs/2105.13891|
-| Yu et al. [2022]   | SoK: Play-to-Earn Projects                                                        |https://arxiv.org/abs/2211.01000         |
+| Yu et al. [2022]   | SoK: Play-to-Earn Projects                       |https://arxiv.org/abs/2211.01000 |
 | Dotan et al. [2020]  | SoK: cryptocurrency networking context, state-of-the-art, challenges     |https://dl.acm.org/doi/10.1145/3407023.3407043      |
 | Moin et al. [2020]   | SoK: A classification framework for stablecoin designs  | https://link.springer.com/chapter/10.1007/978-3-030-51280-4_11     |
 | Gan et al. [2021]   | A critical review of blockchain applications to banking and finance: a qualitative thematic analysis approach |https://www.tandfonline.com/doi/abs/10.1080/09537325.2021.1979509?journalCode=ctas20 |
@@ -211,10 +211,10 @@ and supportive space for builders.*
 
 #### 3.3.1. Blokchain Standard Development References by Institution
 
-| Institution                                                           | Blockchain Standard Development Reference                                                                           |
-|:----------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| The European Commission                                               | https://digital-strategy.ec.europa.eu/en/policies/blockchain-standards                                              |
-| IEEE                                                                  | https://blockchain.ieee.org/standards                                                                               |
+| Institution                                                           | Blockchain Standard Development Reference               |
+|:----------------------------------------------------------------------|:-------------------------------|
+| The European Commission                                               | https://digital-strategy.ec.europa.eu/en/policies/blockchain-standards |
+| IEEE                                                                  | https://blockchain.ieee.org/standards                     |
 | The World Wide Web Consortium (W3C)                                   | https://www.w3.org/2016/04/blockchain-workshop/report.html                                                          |
 | International Association for Trusted Blockchain Applications (Iatba) | https://inatba.org/standards-committee-working-group-lp/                                                            |
 | National Institute of Standards and Technology (NIST)                 | https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf                                                          |
@@ -226,8 +226,8 @@ and supportive space for builders.*
 | European Committee for Electrotechnical Standardization (CENELEC)     | https://www.cencenelec.eu/areas-of-work/cenelec-sectors/digital-society-cenelec/emerging-technologies/              |
 
 #### 3.3.2. Blockchain Standard Papers
-| Title                 | URL                                                                                                                   |
-|:----------------------|:----------------------------------------------------------------------------------------------------------------------|
+| Title                 | URL                                                                                                              |
+|:----------------------|:-------------------------------------------------|
 | Comparing Blockchain Standards and Recommendations     | https://www.mdpi.com/1999-5903/12/12/222/pdf     |                                                                                                                                         
 | Blockchain Standards for Compliance and Trust                                                                 |https://anjum.web.cern.ch/papers/d4sta.pdf                                                                            |
 | Global Standards  Mapping Initiative:  An overview of blockchain technical standards                             | https://www.weforum.org/whitepapers/global-standards-mapping-initiative-an-overview-of-blockchain-technical-standards |
