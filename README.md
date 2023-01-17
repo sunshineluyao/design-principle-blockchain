@@ -165,13 +165,13 @@ https://github.com/sunshineluyao/design-principle-blockchain/blob/main/data/whit
 
 *The blockchain projects and/or cross-chain solutions ranked by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27* (dApps are excluded)
 
-|   Rank  | name                   | symbol   |   Genesis | Type        | Coinmarketcap| whitepaper    |
+|   Rank  | name                   | symbol   |   Genesis | Type        | Coinmarketcap| whitepaper|
 |--------:|:-----------------------|:---------|----------:|:------------|:-------------|:-----------|
-|       1 | Bitcoin                | BTC      |      2009 | Blockchain  | https://coinmarketcap.com/currencies/bitcoin/           | https://bitcoin.org/bitcoin.pdf  |
-|       2 | Ethereum               | ETH      |      2015 | Blockchain  | https://coinmarketcap.com/currencies/ethereum/          | https://ethereum.org/en/whitepaper/                                                                                          |
-|       3 | Binance smart chain    | BNB      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/bnb/               | https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md                                                        |
-|       4 | XRP Ledger (Ripple)    | XRP      |      2021 | Blockchain  | https://coinmarketcap.com/currencies/xrp/               | https://ripple.com/files/ripple_consensus_whitepaper.pdf                                                                     |
-|       5 | Cardano                | ADA      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/cardano/           | https://docs.cardano.org/en/latest/                                                                                          |
+|       1 | Bitcoin                | BTC      |      2009 | Blockchain  | https://coinmarketcap.com/currencies/bitcoin/ | https://bitcoin.org/bitcoin.pdf  |
+|       2 | Ethereum               | ETH      |      2015 | Blockchain  | https://coinmarketcap.com/currencies/ethereum/  | https://ethereum.org/en/whitepaper/                                                                                          |
+|       3 | Binance smart chain    | BNB      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/bnb/| https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md                                                        |
+|       4 | XRP Ledger (Ripple)    | XRP      |      2021 | Blockchain  | https://coinmarketcap.com/currencies/xrp/ | https://ripple.com/files/ripple_consensus_whitepaper.pdf |
+|       5 | Cardano                | ADA      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/cardano/| https://docs.cardano.org/en/latest/                                                                                          |
 |       6 | Polkadot               | DOT      |      2022 | Cross-chain | https://coinmarketcap.com/currencies/polkadot-new/      | https://polkadot.network/PolkaDotPaper.pdf                                                                                   |
 |       7 | TRON                   | TRX      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/tron/              | https://tron.network/static/doc/white_paper_v_2_0.pdf                                                                        |
 |       8 | Solana                 | SOL      |      2020 | Blockchain  | https://coinmarketcap.com/currencies/solana/            | https://solana.com/solana-whitepaper.pdf                                                                                     |
