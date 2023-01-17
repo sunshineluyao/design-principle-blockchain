@@ -161,12 +161,13 @@ and supportive space for builders.*
 <img src="./figs/whitepapers/whitepaper_bigram_abstract.png" alt="drawing" width="800"/>
 
 ### 1.3. Reference List
+https://github.com/sunshineluyao/design-principle-blockchain/blob/main/data/whitepaper.csv
 
 *The blockchain projects and/or cross-chain solutions ranked by market values retrived from [https://coinmarketcap.com/](https://coinmarketcap.com/) on 2022/12/27* (dApps are excluded)
 
 |   Rank  | name                   | symbol   |   Genesis | Type        | Coinmarketcap| whitepaper    |
-|--------:|:-----------------------|:---------|----------:|:------------|:-------------|:------------------------------------------|
-|       1 | Bitcoin                | BTC      |      2009 | Blockchain  | https://coinmarketcap.com/currencies/bitcoin/           | https://bitcoin.org/bitcoin.pdf                                                                                              |
+|--------:|:-----------------------|:---------|----------:|:------------|:-------------|:-----------|
+|       1 | Bitcoin                | BTC      |      2009 | Blockchain  | https://coinmarketcap.com/currencies/bitcoin/           | https://bitcoin.org/bitcoin.pdf  |
 |       2 | Ethereum               | ETH      |      2015 | Blockchain  | https://coinmarketcap.com/currencies/ethereum/          | https://ethereum.org/en/whitepaper/                                                                                          |
 |       3 | Binance smart chain    | BNB      |      2017 | Blockchain  | https://coinmarketcap.com/currencies/bnb/               | https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md                                                        |
 |       4 | XRP Ledger (Ripple)    | XRP      |      2021 | Blockchain  | https://coinmarketcap.com/currencies/xrp/               | https://ripple.com/files/ripple_consensus_whitepaper.pdf                                                                     |
